@@ -17,3 +17,8 @@
     * paper: [https://arxiv.org/abs/2102.00650](https://arxiv.org/abs/2102.00650)
     * code: [https://github.com/bellymonster/Weighted-Soft-Label-Distillation](https://github.com/bellymonster/Weighted-Soft-Label-Distillation)
     * paddle realization: [link](./weighted_soft_label_distillation/)
+
+* Exponential Moving Average
+    * paper: [https://en.wikipedia.org/wiki/Moving_average](https://en.wikipedia.org/wiki/Moving_average)
+    * code: so many, not listed here
+    * gen ema model mannually: [link](./ema/)
